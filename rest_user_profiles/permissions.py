@@ -1,5 +1,4 @@
 from rest_framework import permissions
-from rest_framework_jwt.utils import jwt_decode_handler
 
 			
 class IsOwnerOrAdmin(permissions.BasePermission):
