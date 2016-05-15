@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include userprofile/static *
+recursive-include userprofile/templates *
